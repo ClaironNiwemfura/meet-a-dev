@@ -1,0 +1,17 @@
+*{background-color:#624728 ;
+}
+h1{
+    font-family: inter;
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+color: #fff;
+}
+.image{
+    opacity: 0.2;
+   background-image: url(/i2.jpeg);
+   width: 90%;
+ background-attachment: fixed;
+   
+}
