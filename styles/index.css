@@ -1,17 +1,80 @@
-*{background-color:#624728 ;
+.parent{background-color: #624728;
+
 }
-h1{
-    font-family: inter;
-font-style: normal;
-font-weight: 700;
-font-size: 64px;
-line-height: 77px;
-color: #fff;
+.nav-bar{background-color: #271C10;
+
 }
-.image{
-    opacity: 0.2;
-   background-image: url(/i2.jpeg);
-   width: 90%;
- background-attachment: fixed;
+.logo{
+
+}
+.home{
+    background-image: url(/images/IMG_me.jpg);
+    width: 90%;
+    height: 720px;
+    background-repeat: no-repeat;
    
+    margin: 70px;
+    padding: 0px;
+    background-size: cover;
+    opacity: 20%;
+    
+
 }
+.home-h2{
+    font-style: scriptMTBold;
+    font-weight: 1000;
+    font-size: 40px;
+    color: white;
+    
+}
+.
+
+
+.about-me{background-color: #271C10;
+
+}
+.my-project{background-color: #271C10;
+
+}
+.my-blog{background-color: #271C10;
+
+}
+.contact-me{background-color: #271C10;
+
+}
+
+
+
+.navbar ul{  position: top;
+    list-style-type: none;
+    margin: 0;
+    padding: 2%;
+    display: inline;
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: 39px;
+ font-style:inter ;
+ font-color:white ;
+
+    }
+    .navbar ul li{
+        float:left;
+        display: block;
+        padding: 70px;
+        margin: 0;
+        background-color:#271C10 ;
+        text-align: center;
+        color: white;
+        font-size: 32px;
+        font-family: inter;
+        font-weight: 700;
+    }
+
+    .aboutme {
+        padding: auto;
+        position: relative;
+        top;1440px
+        
+
+    }
